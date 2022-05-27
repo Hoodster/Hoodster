@@ -20,3 +20,8 @@ You can reach me by my [LinkedIn profile](https://www.linkedin.com/in/jakub-pore
 
 ## My hobbies
 Design, true crime, history, technologies
+
+## CodeWars
+![image](https://www.codewars.com/users/Hoodster/badges/large)<br>
+Sometimes I like to solve coding problems on CodeWars. I highly recommend to try out this platform especially for those who learn. It's nice that you can learn from other's solution and know more about language built in tricks.
+

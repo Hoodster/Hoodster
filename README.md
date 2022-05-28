@@ -14,6 +14,8 @@ Yeah... I need to cleanup here definitely.
 - JavaScript ES5 and higher
 - React.js
 - many smaller things that comes along with these 3 above
+- Docker
+- SQL (Microsoft SQL Server) and NOSQL databases (especially MongoDB & Firebase)
 
 ## Assuming I want to contact with you...
 You can reach me by my [LinkedIn profile](https://www.linkedin.com/in/jakub-porebski/) or [Discord](https://www.discordapp.com/users/no_elo#0241)

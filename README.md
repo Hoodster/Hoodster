@@ -5,7 +5,7 @@
 I'm Jakub but friends (and others) call me Kuba. My routine is working as a fullstack software developer. I am Bachelor of Computer Science graduate in Silesian University of Technology (SDG ranking 801-1000).
 
 ## But Kuba, what can we find here?
-Well, mostly I use GitHub for university stuff. Don't get me wrong. Most of it is horribly written and kills all good practices (does ✨Macro Assembly x64✨ HAS a good practices at all?). So please don't expect beautiful coding experience at my best. My valuable code (**all these projects I thought I will turn into money one day**) is often set private or I have it on another platform.
+Well, mostly I use GitHub for university stuff. Don't get me wrong. Most of it is horribly written and kills all good practices (does ✨Macro Assembly x64✨ have good practices at all?). So please don't expect beautiful coding experience at my best. My valuable code (**all these projects I thought I will turn into money one day**) is often set private or I have it on another platform.
 
 Yeah... I need to cleanup here definitely.
 

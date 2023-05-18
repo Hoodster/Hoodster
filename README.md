@@ -26,4 +26,5 @@ Design, true crime, history, technologies
 ## CodeWars
 ![image](https://www.codewars.com/users/Hoodster/badges/large)<br>
 Sometimes I like to solve coding problems on CodeWars.
+My [profile](https://www.codewars.com/users/Hoodster/stats).
 

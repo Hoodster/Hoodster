@@ -13,7 +13,7 @@ Yeah... I need to cleanup here definitely.
 - C# and .NET from version Core 2.1 to .NET 7
 - JavaScript ES5 and higher
 - React.js
-- many smaller things that comes along with these 3 above
+- many smaller things that come along with these 3 above
 - Docker
 - SQL (Microsoft SQL Server) and NOSQL databases (especially MongoDB & Firebase)
 

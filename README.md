@@ -10,7 +10,7 @@ Well, mostly I use GitHub for university stuff. Don't get me wrong. Most of it i
 Yeah... I need to cleanup here definitely.
 
 ## Ok ok, so what technologies are you in? Apart from Macro Assembly 🔥 of course 🔥.
-- C# and .NET from version Core 2.1 to .NET 5 (still learning .NET 6)
+- C# and .NET from version Core 2.1 to .NET 7
 - JavaScript ES5 and higher
 - React.js
 - many smaller things that comes along with these 3 above
@@ -25,6 +25,7 @@ Design, true crime, history, technologies
 
 ## CodeWars
 ![image](https://www.codewars.com/users/Hoodster/badges/large)<br>
-Sometimes I like to solve coding problems on CodeWars.
+Sometimes I like to solve coding problems on CodeWars. 
+UPDATE: I had kyu 3 but they falsely accused me of cheating and even when situation was solved with costumer support they didn't bring my honor back :(
 My [profile](https://www.codewars.com/users/Hoodster/stats).
 
